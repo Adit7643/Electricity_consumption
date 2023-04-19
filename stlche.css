@@ -1,0 +1,54 @@
+*{
+margin: 0px 0px 0px 0px;
+}
+section {
+    margin:0px 0px 0px 0px;
+    text-align: justify;
+    padding: 2% 2% 2% 2%;
+}
+.cara{
+    height: 407px;
+    width: 795px;
+}
+.caraus{
+   padding-top: 90px;
+}
+
+h3 {
+    
+    font-family: 'Dongle', sans-serif;
+}
+h1 {
+    
+    font-family: 'Dongle', sans-serif;
+}
+.imp{
+    padding-right:1%;
+}
+p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 24px;
+}
+a {
+    padding-left: 20px;
+    color: black;
+    font-family: 'Dongle', sans-serif;
+    font-size: 24px;
+}
+.section-5{
+    background-color: #A0D2EB;
+}
+ .tab {
+    border: solid 5px black;
+}
+#graph{
+    margin-right: 10px;
+    height: 507px;
+    width: 795px;
+}
+#footer{
+    text-align: center;
+}
+button  {
+    border: solid 3px black;
+}
